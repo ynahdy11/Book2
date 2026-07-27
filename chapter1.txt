@@ -1,2 +1,3 @@
-#chapter 1: this is a change I made from my local computer
-we are adding a new line of code
+#chapter 1: the adventure begins
+once upon a time, a new git repo was born.
+
