@@ -1,2 +1,4 @@
-#chapter 1: this is a change I made from my remote computer
+
+#chapter 1: the adventure begins
+once upon a time, a new git repo was born.
 we are adding a new line of code
